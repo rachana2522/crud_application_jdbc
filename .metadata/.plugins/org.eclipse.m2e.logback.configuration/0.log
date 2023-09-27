@@ -1,0 +1,140 @@
+2023-09-27 20:04:57,142 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-09-27 20:06:09,009 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\springWEP_PAGE CONNECTION\springjdbc\pom.xml
+2023-09-27 20:06:09,804 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jdbc:springjdbc:0.0.1-SNAPSHOT @ D:\springWEP_PAGE CONNECTION\springjdbc\pom.xml.
+2023-09-27 20:06:10,389 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springjdbc/src/main/java
+2023-09-27 20:06:10,397 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springjdbc/src/test/java
+2023-09-27 20:06:10,949 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2023-09-27 20:06:11,366 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:06:11,366 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\main\resources
+2023-09-27 20:06:11,367 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:06:11,367 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\test\resources
+2023-09-27 20:07:04,093 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.becoder:4_Spring_JDBC:0.0.1-SNAPSHOT @ D:\springWEP_PAGE CONNECTION\springjdbc\pom.xml.
+2023-09-27 20:07:04,984 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.10/spring-core-5.3.10.pom
+2023-09-27 20:07:05,362 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.10/spring-core-5.3.10.pom
+2023-09-27 20:07:05,709 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.10/spring-jcl-5.3.10.pom
+2023-09-27 20:07:05,800 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.10/spring-jcl-5.3.10.pom
+2023-09-27 20:07:05,904 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.10/spring-context-5.3.10.pom
+2023-09-27 20:07:06,019 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.10/spring-context-5.3.10.pom
+2023-09-27 20:07:07,067 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.10/spring-aop-5.3.10.pom
+2023-09-27 20:07:07,155 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.10/spring-aop-5.3.10.pom
+2023-09-27 20:07:07,386 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.10/spring-beans-5.3.10.pom
+2023-09-27 20:07:08,096 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.10/spring-beans-5.3.10.pom
+2023-09-27 20:07:10,048 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.10/spring-expression-5.3.10.pom
+2023-09-27 20:07:10,159 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.10/spring-expression-5.3.10.pom
+2023-09-27 20:07:11,276 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.3.10/spring-jdbc-5.3.10.pom
+2023-09-27 20:07:11,446 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.3.10/spring-jdbc-5.3.10.pom
+2023-09-27 20:07:11,569 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.3.10/spring-tx-5.3.10.pom
+2023-09-27 20:07:11,662 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.3.10/spring-tx-5.3.10.pom
+2023-09-27 20:07:12,156 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.46/mysql-connector-java-5.1.46.pom
+2023-09-27 20:07:12,270 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.46/mysql-connector-java-5.1.46.pom
+2023-09-27 20:07:12,380 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.10/spring-core-5.3.10.jar
+2023-09-27 20:07:19,224 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.10/spring-core-5.3.10.jar
+2023-09-27 20:07:19,291 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.10/spring-jcl-5.3.10.jar
+2023-09-27 20:07:19,516 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.10/spring-jcl-5.3.10.jar
+2023-09-27 20:07:19,586 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.10/spring-context-5.3.10.jar
+2023-09-27 20:07:25,888 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.10/spring-context-5.3.10.jar
+2023-09-27 20:07:26,034 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.10/spring-aop-5.3.10.jar
+2023-09-27 20:07:27,985 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.10/spring-aop-5.3.10.jar
+2023-09-27 20:07:28,057 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.10/spring-beans-5.3.10.jar
+2023-09-27 20:07:31,960 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.10/spring-beans-5.3.10.jar
+2023-09-27 20:07:32,096 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.10/spring-expression-5.3.10.jar
+2023-09-27 20:07:34,457 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.10/spring-expression-5.3.10.jar
+2023-09-27 20:07:34,527 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.3.10/spring-jdbc-5.3.10.jar
+2023-09-27 20:07:36,693 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.3.10/spring-jdbc-5.3.10.jar
+2023-09-27 20:07:36,759 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.3.10/spring-tx-5.3.10.jar
+2023-09-27 20:07:38,249 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.3.10/spring-tx-5.3.10.jar
+2023-09-27 20:07:38,321 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.46/mysql-connector-java-5.1.46.jar
+2023-09-27 20:07:45,643 [Worker-16] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.46/mysql-connector-java-5.1.46.jar
+2023-09-27 20:07:47,338 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:07:47,338 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\main\resources
+2023-09-27 20:07:47,339 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:07:47,339 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\test\resources
+2023-09-27 20:08:12,253 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-09-27 20:08:15,882 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:08:15,883 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\main\resources
+2023-09-27 20:08:15,885 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:08:15,885 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\test\resources
+2023-09-27 20:08:18,999 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.becoder:4_Spring_JDBC:0.0.1-SNAPSHOT @ D:\springWEP_PAGE CONNECTION\springjdbc\pom.xml.
+2023-09-27 20:08:19,760 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:08:19,760 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\main\resources
+2023-09-27 20:08:19,762 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:08:19,762 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\test\resources
+2023-09-27 20:10:38,456 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:10:38,456 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\main\resources
+2023-09-27 20:10:38,459 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:10:38,459 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\test\resources
+2023-09-27 20:10:43,189 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:10:43,189 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\main\resources
+2023-09-27 20:10:43,190 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:10:43,190 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\test\resources
+2023-09-27 20:10:54,306 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:10:54,307 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\main\resources
+2023-09-27 20:10:54,308 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:10:54,308 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\test\resources
+2023-09-27 20:11:03,554 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:11:03,554 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\main\resources
+2023-09-27 20:11:03,555 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:11:03,555 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\test\resources
+2023-09-27 20:11:21,975 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:11:21,975 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\main\resources
+2023-09-27 20:11:21,976 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:11:21,976 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\test\resources
+2023-09-27 20:12:03,918 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-09-27 20:12:04,297 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.becoder:4_Spring_JDBC:0.0.1-SNAPSHOT @ D:\springWEP_PAGE CONNECTION\springjdbc\pom.xml.
+2023-09-27 20:12:04,450 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springjdbc/src/main/java
+2023-09-27 20:12:04,451 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springjdbc/src/test/java
+2023-09-27 20:12:04,555 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-09-27 20:12:04,772 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:12:04,772 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\main\resources
+2023-09-27 20:12:04,774 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:12:04,774 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\test\resources
+2023-09-27 20:12:17,965 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:12:17,965 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\main\resources
+2023-09-27 20:12:17,966 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:12:17,966 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\test\resources
+2023-09-27 20:17:35,533 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:17:35,534 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\main\resources
+2023-09-27 20:17:35,535 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:17:35,535 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\test\resources
+2023-09-27 20:19:19,151 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:19:19,151 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\main\resources
+2023-09-27 20:19:19,152 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:19:19,152 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\test\resources
+2023-09-27 20:19:55,796 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:19:55,797 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\main\resources
+2023-09-27 20:19:55,797 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:19:55,797 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\test\resources
+2023-09-27 20:20:41,207 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:20:41,207 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\main\resources
+2023-09-27 20:20:41,208 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:20:41,208 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\test\resources
+2023-09-27 20:21:20,356 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:21:20,356 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\main\resources
+2023-09-27 20:21:20,356 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:21:20,357 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\test\resources
+2023-09-27 20:22:07,761 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:22:07,761 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\main\resources
+2023-09-27 20:22:07,764 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:22:07,764 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\test\resources
+2023-09-27 20:23:36,673 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.becoder:4_Spring_JDBC:0.0.1-SNAPSHOT @ D:\springWEP_PAGE CONNECTION\springjdbc\pom.xml.
+2023-09-27 20:23:36,780 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:23:36,780 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\main\resources
+2023-09-27 20:23:36,781 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:23:36,781 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\test\resources
+2023-09-27 20:27:33,110 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:27:33,110 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\main\resources
+2023-09-27 20:27:33,111 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:27:33,111 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\test\resources
+2023-09-27 20:27:58,471 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:27:58,471 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\main\resources
+2023-09-27 20:27:58,472 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:27:58,472 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\test\resources
+2023-09-27 20:30:41,119 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:30:41,119 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\main\resources
+2023-09-27 20:30:41,120 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:30:41,120 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\test\resources
+2023-09-27 20:30:43,383 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.becoder:4_Spring_JDBC:0.0.1-SNAPSHOT @ D:\springWEP_PAGE CONNECTION\springjdbc\pom.xml.
+2023-09-27 20:30:43,633 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:30:43,633 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\main\resources
+2023-09-27 20:30:43,634 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-27 20:30:43,634 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springWEP_PAGE CONNECTION\springjdbc\src\test\resources
